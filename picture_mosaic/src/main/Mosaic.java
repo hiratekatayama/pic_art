@@ -8,7 +8,7 @@ public class Mosaic extends PApplet {
 
     @Override
     public void settings(){
-        size(2000, 1000);
+        size(1000, 500);
     }
 
     @Override
